@@ -10,6 +10,11 @@ hr {
   text-align: center;
   margin: 0 auto;  
 }
+
+#logo {
+  text-aligh: center;
+  margin: 0 auto;
+}
 #drinkSection {
  width: 150px;
   margin: 0 auto;
@@ -28,6 +33,7 @@ hr {
 .nav-link{
   text-decoration: none;
   color: black;
+  padding: 30px;
 }
 
 #form {
